@@ -1,0 +1,4 @@
+.stack-work/
+db-user-haskell.cabal
+*~
+app.config
